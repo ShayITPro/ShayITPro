@@ -21,9 +21,9 @@ j'aime expérimenter avec **Nginx, Wiki.js** et diverses solutions d'hébergemen
 
 ## 📌 Projets & Contributions  
 
-- 🔹 Amélioration et gestion d'un serveur **Discord associatif** *(rôles, salons, simplification)*  
-- 🔹 Expérimentation avec **Nginx & Wiki.js** pour de la documentation technique  
-- 🔹 Participation active aux discussions et partages autour des **technos Linux & IT**  
+ 🔹 Amélioration et gestion d'un serveur **Discord associatif** *(rôles, salons, simplification)*  
+ 🔹 Expérimentation avec **Nginx & Wiki.js** pour de la documentation technique  
+ 🔹 Participation active aux discussions et partages autour des **technos Linux & IT**  
 
 ## 🚀 Objectifs & Veille  
 

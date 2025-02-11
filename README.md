@@ -32,11 +32,6 @@ j'aime expérimenter avec **Nginx, Wiki.js** et diverses solutions d'hébergemen
 - 🔐 Sécurité & optimisation serveur  
 - 📖 Solutions de documentation et **knowledge management**  
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=dark)  
-
 ## 🌐 Me contacter  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shay-castelnau/)  
